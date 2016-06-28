@@ -1,0 +1,21 @@
+{
+  "name": "hackd",
+  "authors": [
+    "Stephane Paul <stephane.paul@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2",
+    "TweenJS": "^0.6.2"
+  }
+}
